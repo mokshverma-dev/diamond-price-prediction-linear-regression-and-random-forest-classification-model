@@ -28,8 +28,8 @@ Diamonds price prediction is practiced by Assests Investment Groups and Diamond 
 
 [Diamonds Data Visualization.pbix](https://github.com/mokshverma-dev/linear-regression-diamond-price-prediction/blob/main/Diamonds%20Data%20Visualization.pbix)
 
-Daimond Data Dashboard Screenshot
-![Daimond Data Dashboard](https://github.com/mokshverma-dev/linear-regression-diamond-price-prediction/blob/main/PowerBI%20Dashboard%20of%20Daimond%20Data.png)
+Diamond Data Dashboard Screenshot
+![Diamond Data Dashboard](https://github.com/mokshverma-dev/linear-regression-diamond-price-prediction/blob/main/PowerBI%20Dashboard%20of%20Daimond%20Data.png)
 
 ## Tech Stack
 
