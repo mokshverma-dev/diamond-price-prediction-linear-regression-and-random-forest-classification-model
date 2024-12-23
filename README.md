@@ -1,9 +1,9 @@
 # Hi, I'm Moksh Verma! 👋
 
 
-# Data Analytics Project : "Linear Regression - Diamond Price Prediction"
+# Data Analytics Project : "Diamond Price Prediction - Linear Regression & Random Forest Classification"
 
-### ~ Linear Regression Model to Predict Diamond Price based on its features.
+### ~ Linear Regression & Random Forest Classification Model to Predict Diamond Price based on its features.
 
 
 # What is the Purpose of this Project?
